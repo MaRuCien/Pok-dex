@@ -6,5 +6,5 @@ vistas y capturadas durante su viaje como entrenadores.
 
 
 <p align="center">
-  <img width="250" src="https://cults3d.com/es/modelo-3d/juegos/pokemon-pokedex-neoretro3d">
+  <img width="250" src="https://media.giphy.com/media/X2FueLPUhGhIk/giphy.gif">
 </p>
